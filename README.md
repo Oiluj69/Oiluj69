@@ -1,7 +1,7 @@
 - 👋 Hola a tod@s soy @Oiluj69
 Estoy interesado en diseño y programación web
-- 🌱 Actualmente me encuentro aprendiendo html, css, php y javascript 
-No creo que este capacitado para colaborar con alguien, pero si alguién necesita de mi colaboración aquí me tiene.
+- 🌱 Actualmente me encuentroo aprendiendo html, css, php y javascript. 
+No creo que este capacitado para colaborar con alguien, pero si necesita de mi colaboración aquí me tiene.
 - 📫 Me pueden localizar con el email mendezmarantejuliocesar@gmail.com 
 
 Creo que por el momento eso es todo.
